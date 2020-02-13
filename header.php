@@ -54,8 +54,8 @@
             <a class="dropdown-item" style="color: rgb(163, 158, 158)" href="ebb_and_flow_growing_Benches.php">Ebb & Flow Growing Benches</a>
             <a class="dropdown-item" style="color: rgb(163, 158, 158)" href="expanded_metal_Benches.php">Expanded Metal Benches</a>
             <a class="dropdown-item" style="color: rgb(163, 158, 158)" href="multi_tiered_benches.php"> Multi-tiered Benches </a>
-            <a class="dropdown-item" style="color: rgb(163, 158, 158)" href="#Trellis_System"> Trellis (Plant Support) Systems </a>
-            <a class="dropdown-item" style="color: rgb(163, 158, 158)" href="#Ebb&Flow"> Ebb & Flow Trays </a>
+            <a class="dropdown-item" style="color: rgb(163, 158, 158)" href="index.php#Trellis_System"> Trellis (Plant Support) Systems </a>
+            <a class="dropdown-item" style="color: rgb(163, 158, 158)" href="index.php#Ebb&Flow"> Ebb & Flow Trays </a>
           </div>
         </li>
         <li class="nav-item" >

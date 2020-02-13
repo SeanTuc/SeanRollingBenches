@@ -72,7 +72,7 @@
             Galvanized Steel Tubing, our trellis system will save space and ensure the highest possible yields. <br>
             Please feel free to contact us with any questions, or to get a quote for customized benches to meet your needs.</p> 
             </div>
-            <a href="#" class="btn btn-secondary stretched-link" >Contact Us</a>
+            <a href="contactUs.php" class="btn btn-secondary " >Contact Us</a>
 
         </div>
       </div>
@@ -88,7 +88,7 @@
                ensure a perfect fit every time.<br>
               Please feel free to contact us with any questions, or to get a quote for customized benches to meet your needs.</p> 
                </div>
-              <a href="#" class="btn btn-secondary stretched-link" >Contact Us</a>
+              <a href="contactUs.php" class="btn btn-secondary " >Contact Us</a>
           </div>
         </div>
         <div class="card" style="background: black"  >

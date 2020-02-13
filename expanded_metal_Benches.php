@@ -1,11 +1,9 @@
 <?php
     include 'header.php';
 ?>
-
+<h2 style="color: white; padding: 3% 0% 0% 5%; " ><b>Expanded Metal Benches</b></h2>
 <div class:"content" style="color: white; padding: 0% 5% 10% 5%;">
-<p>
-<h2 style="color: white; padding: 3% 0% 0% 0%; text-align: center; " ><b>Expanded Metal Benches</b></h2>
-    <br> We offer a line of expanded metal benches manufactured with the same high quality materials as our signature Ebb & 
+<p>    <br> We offer a line of expanded metal benches manufactured with the same high quality materials as our signature Ebb & 
     Flow benches. Our benches with expanded metal tops are identical to our Ebb & Flow benches, except that they have expanded 
     metal bench tops in place of Ebb & Flow trays.<br> <br>
     Many customers like to have some of their benches with expanded metal tops, typically in parts of their retail areas.
