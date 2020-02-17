@@ -59,7 +59,7 @@
           </div>
         </li>
         <li class="nav-item" >
-        <a class="nav-link" href="#">Our Guarantee</a>
+        <a class="nav-link" href="ourGuarantee.php">Our Guarantee</a>
       </li>
       <li class="nav-item" >
         
