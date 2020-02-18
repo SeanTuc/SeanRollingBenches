@@ -13,8 +13,8 @@
 </p>
 
 <div class="card-deck" style="padding-left: 10%; padding-right: 10%; padding-bottom: 3%">
-  <div class="card bg-dark"  >
-      <div class="card-body text-center " style="color: white" >  
+  <div class="card bg-dark" style="min-width: 200px"  >
+      <div class="card-body text-center " style="color: white;" >  
         <p class="card-text" style="padding-bottom: 10%"> <h2 style="color: white; min-height: 5em; padding-bottom: 10%">EBB AND FLOW GROWING BENCHES:</h2>
           <img class="card-img-top; img-fluid" src="images/Ebb_flow_benches_3.JPG" alt="#" style="width:100%; height: auto; padding-bottom: 10%">
           <div style="text-align: left">
