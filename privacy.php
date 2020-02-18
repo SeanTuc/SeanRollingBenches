@@ -28,7 +28,7 @@ This privacy Policy discloses the privacy practices for Rollingbenches.ca. This 
             </ul>
         </li>
     </ul>
-    <p> <br> Email Us with Questions at: policy@rollingbenches.ca</p>
+    <p> <br> Email Us with Questions at: <a href="mailto:policy@rollingbenches.ca?subject=Rolling Benches Policy Questions">policy@rollingbenches.ca</a></p>
 
     
 

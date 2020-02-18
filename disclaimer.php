@@ -24,7 +24,7 @@ Please be sure to check the Privacy Policies of these sites as well as their “
     <ul style="list-style-type:none; padding: 4% 0% 1% 0%; ">
         <li> <h3>Disclaimer for IEGCanada, Inc</h3>
             <ul style="list-style-type:none;">
-                <li style="margin: 30px 0;">If you require any more information or have any questions about our site’s disclaimer, please feel free to contact us by email at: jon@igecanada.ca </li>
+                <li style="margin: 30px 0;">If you require any more information or have any questions about our site’s disclaimer, please feel free to contact us by email at:  <a href="mailto:jon@igecanada.ca?subject=Rolling Benches Disclaimer Question">jon@igecanada.ca </a> </li>
             </ul>
         </li>
         <li> <h3>Consent</h3>
