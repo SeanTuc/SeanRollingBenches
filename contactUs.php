@@ -10,19 +10,19 @@
           <div class="contact-form" style="color: white; padding: 5%">
         <form id="contact-form" method="post" action="contactUsHandler.php">
             <label for="name"> Name: </label>
-            <input name="name" type="text" class="form-control" placeholder="Your Name" style="max-width: 250px" required>
+            <input name="name" type="text" class="form-control" placeholder="Your Name"  required>
             <br>
             <label for="email"> Email: </label>
-            <input name="email" type="email" class="form-control" placeholder="Your Email Address" style="max-width: 250px" required>
+            <input name="email" type="email" class="form-control" placeholder="Your Email Address"  required>
             <br>
             <label for="company"> Company: </label>
-            <input name="company" type="text" class="form-control" placeholder="Company Name" style="max-width: 250px" required>
+            <input name="company" type="text" class="form-control" placeholder="Company Name"  required>
             <br>
             <label for="phone"> Phone <small>(Format: 123-456-7890)</small></label>
-            <input name="phone" type="phone" class="form-control" placeholder="Phone Number Optional" style="max-width: 250px" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}">
+            <input name="phone" type="phone" class="form-control" placeholder="Phone Number Optional"  pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}">
             <br>
             <label for="message"> Questions: </label>
-            <textarea name="message" class="form-control" placeholder="Message" style="height: 100px; max-width: 500px" required>
+            <textarea name="message" class="form-control" placeholder="Message" style="height: 100px; " required>
             </textarea>
             <br>
             <button type="submit" name="submit" class="form-control submit" style="" >Send</button>
