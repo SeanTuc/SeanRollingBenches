@@ -13,9 +13,9 @@
 </p>
 
 <div class="card-deck" style="padding-left: 10%; padding-right: 10%; padding-bottom: 3%">
-  <div class="card bg-dark" style="min-width: 200px"  >
-      <div class="card-body text-center " style="color: white;" >  
-        <p class="card-text" style="padding-bottom: 10%"> <h2 style="color: white; min-height: 5em; padding-bottom: 10%">EBB AND FLOW GROWING BENCHES:</h2>
+  <div class="card bg-dark"  >
+      <div class="card-body text-center " style="color: white" >  
+        <p class="card-text" style="padding-bottom: 10%"> <h2 class="main-content-title" style="color: white; min-height: 5em; padding-bottom: 10%; ">EBB AND FLOW GROWING BENCHES:</h2>
           <img class="card-img-top; img-fluid" src="images/Ebb_flow_benches_3.JPG" alt="#" style="width:100%; height: auto; padding-bottom: 10%">
           <div style="text-align: left">
           Our Ebb & Flow benches are designed and manufactured with only the quality materials available. 
@@ -30,7 +30,7 @@
     </div>
     <div class="card bg-dark" >
         <div class="card-body text-center " style="color: white">    
-          <p class="card-text" style="padding-bottom: 10%"> <h2 style="color: white; min-height: 5em; padding-bottom: 10%" >MULTI-TIERED BENCHES: </h2>
+          <p class="card-text" style="padding-bottom: 10%"> <h2 class="main-content-title" style="color: white; min-height: 5em; padding-bottom: 10%" >MULTI-TIERED BENCHES: </h2>
             <img class="card-img-top; img-fluid" src="images/MULTI-TIERED BENCHES.JPG" alt="#" style="width:100%; height: auto; padding-bottom: 10%">
             <div style="text-align: left">
             We manufacture multi-level stationary and rolling benches and racks that are one of the best ways to maximize your 
@@ -44,7 +44,7 @@
     <div class="card bg-dark" >
         <div class="card-body text-center " style="color: white">
             
-            <p class="card-text" style="padding-bottom: 10%"> <h2 style="color: white; min-height: 5em; padding-bottom: 10%" >EXPANDED METAL BENCHES:</h2>
+            <p class="card-text" style="padding-bottom: 10%"> <h2 class="main-content-title" style="color: white; min-height: 5em; padding-bottom: 10%" >EXPANDED METAL BENCHES:</h2>
             <img class="card-img-top; img-fluid" src="images/No_image.jpg" alt="#" style="width:100%; height: auto; padding-bottom: 10%">
             <div style="text-align: left">
             Our Ebb & Flow benches are designed and manufactured with only the quality materials available. 
@@ -64,7 +64,7 @@
 <div class="card-deck" style="padding-left: 10%; padding-right: 10%; padding-bottom: 3%">
     <div class="card bg-dark"  >
         <div class="card-body text-center " style="color: white" >  
-          <p class="card-text" style="padding-bottom: 10%"> <h2 style="color: white; min-height: 5em; padding-bottom: 10%"> Plant Support (Trellis) Systems:</h2>
+          <p class="card-text" style="padding-bottom: 10%"> <h2 class="main-content-title" style="color: white; min-height: 5em; padding-bottom: 10%"> Plant Support (Trellis) Systems:</h2>
             
             <img class="card-img-top; img-fluid" src="images/No_image.jpg" alt="#" style="width:100%; height: auto; padding-bottom: 10%">
             <div style="text-align: left">
@@ -80,7 +80,7 @@
       <div class="card bg-dark" >
           <div class="card-body text-center " style="color: white">
               
-            <p class="card-text" style="padding-bottom: 10%; text-align: left"> <h2 style="color: white; min-height: 5em; padding-bottom: 10%" >Ebb & Flow Trays: </h2>
+            <p class="card-text" style="padding-bottom: 10%; text-align: left"> <h2 class="main-content-title" style="color: white; min-height: 5em; padding-bottom: 10%" >Ebb & Flow Trays: </h2>
               <img class="card-img-top; img-fluid" src="images/No_image.jpg" alt="#" style="width:100%; height: auto; padding-bottom: 10%">
               <div style="text-align: left">
               We manufacture the Stål & Plast trays for all of our racks and benches, and these fine trays are available separately as well. We can supply new or 

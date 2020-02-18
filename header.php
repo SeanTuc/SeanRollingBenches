@@ -36,6 +36,10 @@
         transform: translate(-50%, -50%);
         color: white;
       }
+      @media (min-width:577px){
+        .main-content-title {
+            font-size:calc(6pt  + 1.7vw);
+        }
       
       </style>
   
