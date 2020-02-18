@@ -39,7 +39,7 @@
       @media (min-width:577px){
         .main-content-title {
             font-size:calc(6pt  + 1.7vw);
-        }
+        }}
       
       </style>
   
