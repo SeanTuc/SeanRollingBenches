@@ -39,13 +39,33 @@
       @media (min-width:577px){
         .main-content-title {
             font-size:calc(6pt  + 1.7vw);
-        }}
+        }
+      }
+
+
+      #page-container {
+        position: relative;
+        min-height: 100vh;
+      }
+
+      #content-wrap {
+        padding-bottom: 2.5rem;    /* Footer height */
+      }
+
+      #footer {
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        height: 2.5rem;            /* Footer height */
+      }
       
       </style>
   
 
 </head>
 <body style="background: rgb(0, 0, 0)">
+    <div id="page-container">
+      <div id="content-wrap">
     <nav class="navbar navbar-expand-md bg-dark navbar-dark ">
         <a class="navbar-brand" href="index.php" > <b>Home</b></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">

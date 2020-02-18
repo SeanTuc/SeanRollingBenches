@@ -21,3 +21,8 @@ Please feel free to contact us with any questions, or to get a quote for customi
     
 
 </div>
+
+
+<?php
+  include 'footer.php';
+  ?>

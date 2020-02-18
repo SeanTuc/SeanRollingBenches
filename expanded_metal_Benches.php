@@ -14,3 +14,9 @@
     after being formed, resulting in a durable bench that will retain its clean, like new appearance for many years. <br>
     <br> <br> </p>
 </div>
+
+
+
+<?php
+  include 'footer.php';
+  ?>
