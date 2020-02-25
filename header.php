@@ -22,7 +22,7 @@
       }
       
       .hero-image {
-        background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/RollingBenches.png");
+        background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("images/RollingBenches.jpg");
         height: 50%;
         min-height: 240px;
         background-position: center;

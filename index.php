@@ -16,7 +16,7 @@
   <div class="card bg-dark"  >
       <div class="card-body text-center " style="color: white" >  
         <p class="card-text" style="padding-bottom: 10%"> <h2 class="main-content-title" style="color: white; min-height: 5em; padding-bottom: 10%; ">EBB AND FLOW GROWING BENCHES:</h2>
-          <img class="card-img-top; img-fluid" src="images/Ebb_flow_benches_3.JPG" alt="#" style="width:100%; height: auto; padding-bottom: 10%">
+          <img class="card-img-top; img-fluid" src="images/Ebb_flow_bench_1.JPG" alt="#" style="width:100%; height: auto; padding-bottom: 10%">
           <div style="text-align: left">
           Our Ebb & Flow benches are designed and manufactured with only the quality materials available. 
           All benches have legs, leveling headers, and benchtop framework made from galvanized steel tubing from Allied Tubing. 
@@ -31,7 +31,7 @@
     <div class="card bg-dark" >
         <div class="card-body text-center " style="color: white">    
           <p class="card-text" style="padding-bottom: 10%"> <h2 class="main-content-title" style="color: white; min-height: 5em; padding-bottom: 10%" >MULTI-TIERED BENCHES: </h2>
-            <img class="card-img-top; img-fluid" src="images/MULTI-TIERED BENCHES.JPG" alt="#" style="width:100%; height: auto; padding-bottom: 10%">
+            <img class="card-img-top; img-fluid" src="images/3_tier_1.JPG" alt="#" style="width:100%; height: auto; padding-bottom: 10%">
             <div style="text-align: left">
             We manufacture multi-level stationary and rolling benches and racks that are one of the best ways to maximize your 
             vertical space and your yields. Using custom fabricated assemblies, your grow team will have the ability to utilize 
@@ -47,12 +47,9 @@
             <p class="card-text" style="padding-bottom: 10%"> <h2 class="main-content-title" style="color: white; min-height: 5em; padding-bottom: 10%" >EXPANDED METAL BENCHES:</h2>
             <img class="card-img-top; img-fluid" src="images/No_image.jpg" alt="#" style="width:100%; height: auto; padding-bottom: 10%">
             <div style="text-align: left">
-            Our Ebb & Flow benches are designed and manufactured with only the quality materials available. 
-            All benches have legs, leveling headers, and benchtop framework made from galvanized steel tubing from Allied Tubing. 
-            Side and end rails are extruded using marine grade aluminum, and our rounded bench corners are also custom extruded aluminum.  
-            The bench tops are vacuum formed UV resistant polystyrene, manufactured in long (1.5 and 2 meter lengths) to minimize 
-            the need for glue joints, while still allowing for easy shipment. Our rolling benches provide almost effortless 
-            rolling ability to allow the bench-tops to roll left and right, maximizing your growing space and your ROI.</p> 
+            We offer a line of expanded metal benches manufactured with the same high quality materials as our signature Ebb & Flow benches. 
+            Our benches with expanded metal tops are identical to our Ebb & Flow benches, except that they have expanded metal bench tops 
+            in place of Ebb & Flow trays..</p> 
             </div>
             <a href="expanded_metal_Benches.php" class="btn btn-secondary stretched-link" >More Details</a>
             
@@ -66,7 +63,7 @@
         <div class="card-body text-center " style="color: white" >  
           <p class="card-text" style="padding-bottom: 10%"> <h2 class="main-content-title" style="color: white; min-height: 5em; padding-bottom: 10%"> Plant Support (Trellis) Systems:</h2>
             
-            <img class="card-img-top; img-fluid" src="images/No_image.jpg" alt="#" style="width:100%; height: auto; padding-bottom: 10%">
+            <img class="card-img-top; img-fluid" src="images/Trellis_4.jpg" alt="#" style="width:100%; height: auto; padding-bottom: 10%">
             <div style="text-align: left">
             We proudly manufacture custom plant support (trellis) systems that are lightweight, fully adjustable and easy to install. Using only high-grade 
             Galvanized Steel Tubing, our trellis system will save space and ensure the highest possible yields. <br>
@@ -81,7 +78,7 @@
           <div class="card-body text-center " style="color: white">
               
             <p class="card-text" style="padding-bottom: 10%; text-align: left"> <h2 class="main-content-title" style="color: white; min-height: 5em; padding-bottom: 10%" >Ebb & Flow Trays: </h2>
-              <img class="card-img-top; img-fluid" src="images/No_image.jpg" alt="#" style="width:100%; height: auto; padding-bottom: 10%">
+              <img class="card-img-top; img-fluid" src="images/Tray_1.jpg" alt="#" style="width:100%; height: auto; padding-bottom: 10%">
               <div style="text-align: left">
               We manufacture the Stål & Plast trays for all of our racks and benches, and these fine trays are available separately as well. We can supply new or 
               replacement benches for all of your existing racks and benches, and you’ll always have the security of knowing that our custom fabrication techniques
