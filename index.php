@@ -16,7 +16,7 @@
   <div class="card bg-dark"  >
       <div class="card-body text-center " style="color: white" >  
         <p class="card-text" style="padding-bottom: 10%"> <h2 class="main-content-title" style="color: white; min-height: 5em; padding-bottom: 10%; ">EBB AND FLOW GROWING BENCHES:</h2>
-          <img class="card-img-top; img-fluid" src="images/Ebb_Flow_bench_1.JPG" alt="#" style="width:100%; height: auto; padding-bottom: 10%">
+          <img class="card-img-top; img-fluid" src="images/Ebb_Flow_bench_1.jpg" alt="#" style="width:100%; height: auto; padding-bottom: 10%">
           <div style="text-align: left">
           Our Ebb & Flow benches are designed and manufactured with only the quality materials available. 
           All benches have legs, leveling headers, and benchtop framework made from galvanized steel tubing from Allied Tubing. 
