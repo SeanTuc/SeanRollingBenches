@@ -58,7 +58,7 @@
           <p style="text-indent: 1em">
             We offer a line of expanded metal benches manufactured with the same high quality materials as our signature Ebb & Flow benches. 
             Our benches with expanded metal tops are identical to our Ebb & Flow benches, except that they have expanded metal bench tops 
-            in place of Ebb & Flow trays..</p> 
+            in place of Ebb & Flow trays.</p> 
             </div>
             <a href="expanded_metal_Benches.php" class="btn btn-secondary" >More Details</a>
             
@@ -78,7 +78,8 @@
             <div style="text-align: left"></p>
           <p style="text-indent: 1em">
             We proudly manufacture custom plant support (trellis) systems that are lightweight, fully adjustable and easy to install. Using only high-grade 
-            Galvanized Steel Tubing, our trellis system will save space and ensure the highest possible yields. <br>
+            Galvanized Steel Tubing, our trellis system will save space and ensure the highest possible yields. </p>
+          <p style="text-indent: 1em">
             Please feel free to contact us with any questions, or to get a quote for customized benches to meet your needs.</p> 
             </div>
             <a href="contactUs.php" class="btn btn-secondary " >Contact Us</a>
@@ -97,7 +98,8 @@
           <p style="text-indent: 1em">
               We manufacture the Stål & Plast trays for all of our racks and benches, and these fine trays are available separately as well. We can supply new or 
               replacement benches for all of your existing racks and benches, and you’ll always have the security of knowing that our custom fabrication techniques
-               ensure a perfect fit every time.<br>
+               ensure a perfect fit every time.</p>
+          <p style="text-indent: 1em">
               Please feel free to contact us with any questions, or to get a quote for customized benches to meet your needs.</p> 
                </div>
               <a href="contactUs.php" class="btn btn-secondary " >Contact Us</a>
