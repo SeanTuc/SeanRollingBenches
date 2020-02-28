@@ -20,6 +20,8 @@
       a {
         color: white;
       }
+
+
       
       .hero-image {
         background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("images/RollingBenches.jpg");

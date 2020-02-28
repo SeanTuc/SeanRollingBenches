@@ -1,10 +1,11 @@
 <?php
     include 'header.php';
 ?>
-<h2 style="color: white; padding: 3% 0% 0% 5%; " ><b>Multi-tiered Benches</b></h2>
+<h2 style="color: white; padding: 3% 0% 2% 5%; " ><b>Multi-tiered Benches</b></h2>
 <div class:"content" style="color: white; padding: 0% 5% 3% 5%;">
-<p>
-    <br><b>Maximize every inch of growing space, without sacrificing aisle space!</b> <br>We manufacture multi-level stationary and rolling benches and racks that are one of the best ways to 
+<p style="text-indent: 1em">
+    <b> Maximize every inch of growing space, without sacrificing aisle space!</b> <br> 
+    We manufacture multi-level stationary and rolling benches and racks that are one of the best ways to 
     maximize your vertical space and your yields. Using custom fabricated assemblies, your grow team will have 
     the ability to utilize all of the existing space in your grow facility. As we manufacture to order, the solutions we 
     offer are guaranteed to be the perfect fit and size for your needs. <br> <br> 

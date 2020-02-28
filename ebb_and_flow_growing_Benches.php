@@ -3,8 +3,8 @@
 ?>
 <h2 style="color: white; padding: 3% 0% 0% 5%; " ><b>Ebb & Flow Growing Benches</b></h2>
 <div class:"content" style="color: white; padding: 0% 5% 3% 5%;">
-<p>
-    <br> Our Ebb & Flow benches are designed and manufactured with only the quality materials available. 
+<p style="text-indent: 1em">
+    Our Ebb & Flow benches are designed and manufactured with only the quality materials available. 
     All benches have legs, leveling headers, and benchtop framework made from galvanized steel tubing from Allied Tubing. Side and end rails 
     are extruded using marine grade aluminum, and our rounded bench corners are also custom extruded aluminum.  
     The bench tops are vacuum formed UV resistant polystyrene, manufactured in long (1.5 and 2 meter lengths) 
@@ -25,7 +25,7 @@
         <li>All parts pre-drilled, pre-punched, pre-cut ready to assembled.</li>
     </ul>
     <br>
-    <p>
+    <p style="text-indent: 1em">
     All our benches are custom made to order for each customer.  Ebb & Flow benches are available in a selection of widths. We currently 
     stock 4′, 5′, & 6′ wide trays at our manufacturing warehouse, and many other widths are available as a special order.  The bench 
     lengths are completely custom, but generally must be at least 7.5 feet long as a minimum. <br> <br>
