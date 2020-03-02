@@ -8,24 +8,23 @@
         <p class="card-text" style="padding-bottom: 10%"> <h2 style="color: white;">Email Us</h2>
           <div style="text-align: left">
           <div class="contact-form" style="color: white; padding: 5%">
-        <form id="contact-form" method="post" action="contactUsHandler.php">
+        <form id="contact-form" method="post" enctype="text/plain" action="mailto:sales@rollingbenches.ca?subject=Rolling Benches Contact Page" >
             <label for="name"> Name: </label>
-            <input name="name" type="text" class="form-control" placeholder="Your Name"  required>
+            <input name="Name " type="text" class="form-control" placeholder="Your Name"  required>
             <br>
-            <label for="email"> Email: </label>
-            <input name="email" type="email" class="form-control" placeholder="Your Email Address"  required>
+            <label for="email"> Email:<br> </label>
+            <input name="Email " type="email" class="form-control" placeholder="Your Email Address"  required>
             <br>
             <label for="company"> Company: </label>
-            <input name="company" type="text" class="form-control" placeholder="Company Name"  required>
+            <input name="Company " type="text" class="form-control" placeholder="Company Name"  required>
             <br>
             <label for="phone"> Phone <small>(Format: 123-456-7890)</small></label>
-            <input name="phone" type="phone" class="form-control" placeholder="Phone Number Optional"  pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}">
+            <input name="Phone " type="phone" class="form-control" placeholder="Phone Number Optional"  pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}">
             <br>
             <label for="message"> Questions: </label>
-            <textarea name="message" class="form-control" placeholder="Message" style="height: 100px; " required>
-            </textarea>
+            <textarea name="Message " class="form-control" placeholder="Message" style="height: 100px; " required></textarea>
             <br>
-            <button type="submit" name="submit" class="form-control submit" style="" >Send</button>
+            <button type="submit" class="form-control submit" value="send" >Compose Email</button>
         </form>
     </div>
           </div>
