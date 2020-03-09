@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <meta name="description" content="Rolling Tables">
+  <meta name="description" content="Rolling Benches">
   <meta name="keywords" content="Growing Benches, Trellis, Ebb and Flow">
   <meta name="author" content="Sean Tucker">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -40,6 +40,7 @@
         left: 50%;
         transform: translate(-50%, -50%);
         color: white;
+        
       }
       @media (min-width:577px){
         .main-content-title {
@@ -105,8 +106,8 @@
         
   <div class="hero-image">
     <div class="hero-text">
-      <h1 style="font-size:50px">Rolling Benches</h1>
-      <p><h4> <b>Factory direct pricing for the Professional Grower </b></h4></p>
+      <h1 style="font-size:calc(15pt  + 1.9vw);"> <b>Factory direct pricing for the Professional Grower</b></h1>
+      <p><h5> <b> RollingBenches.ca </b></h5></p>
       <a class="stretched-link" href="index.php"></a>
       </div>
     </div>
