@@ -33,7 +33,7 @@ rolling benches, expanded metal benches and our world class vertical growing sol
         <div class="card-body text-center " style="color: white" >  
           <p class="card-text" style="padding-bottom: 10%"> <h2 class="main-content-title" style="color: white; min-height: 5em; padding-bottom: 10%"> PLANT SUPPORT (TRELLIS) SYSTEMS:</h2>
           <a href="images/Trellis_4.jpg">
-            <img class="card-img-top; img-fluid" src="images/Trellis_4.jpg" alt="#" style="width:100%; height: auto; max-height: 260px; padding-bottom: 10%">
+            <img class="card-img-top; img-fluid" src="images/Trellis_4.jpg" alt="Trellis System" style="width:100%; height: auto; max-height: 260px; padding-bottom: 10%">
           </a>
             <div style="text-align: left"></p>
           <p style="text-indent: 1em">
@@ -51,7 +51,7 @@ rolling benches, expanded metal benches and our world class vertical growing sol
               
             <p class="card-text" style="padding-bottom: 10%; text-align: left"> <h2 class="main-content-title" style="color: white; min-height: 5em; padding-bottom: 10%" >EBB & FLOW TRAYS: </h2>
             <a href="images/Tray_1.jpg">
-              <img class="card-img-top; img-fluid" src="images/Tray_1.jpg" alt="#" style="width:100%; height: auto; max-height: 260px; padding-bottom: 10%">
+              <img class="card-img-top; img-fluid" src="images/Tray_1.jpg" alt="Ebb and Flow Trays" style="width:100%; height: auto; max-height: 260px; padding-bottom: 10%">
             </a>
               <div style="text-align: left"></p>
           <p style="text-indent: 1em">
@@ -109,7 +109,7 @@ rolling benches, expanded metal benches and our world class vertical growing sol
               
             <p class="card-text" style="padding-bottom: 10%; text-align: left"> <h2 class="main-content-title" style="color: white; min-height: 6em; padding-bottom: 10%" >VERTICAL GROWING WITH ARCHIVE RACKING </h2>
             <a href="images/vertical_archive_racking.png">
-              <img class="card-img-top; img-fluid" src="images/vertical_archive_racking.png" alt="#" 
+              <img class="card-img-top; img-fluid" src="images/vertical_archive_racking.png" alt="Archive Rack" 
               style="width:100%; height: auto; max-height: 260px; padding-bottom: 10%">
             </a>
               <div style="text-align: left"></p>
