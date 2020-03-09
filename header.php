@@ -80,12 +80,14 @@
     <ul class="navbar-nav">
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Products</a>
-          <div class="dropdown-menu bg-dark ">
-            <a class="dropdown-item" style="color: rgb(163, 158, 158)" href="ebb_and_flow_growing_Benches.php">Ebb & Flow Growing Benches</a>
-            <a class="dropdown-item" style="color: rgb(163, 158, 158)" href="expanded_metal_Benches.php">Expanded Metal Benches</a>
-            <a class="dropdown-item" style="color: rgb(163, 158, 158)" href="multi_tiered_benches.php"> Multi-tiered Benches </a>
+          <div class="dropdown-menu bg-dark " style="font-size:calc(5pt  + 0.8vw); ">
+            <a class="dropdown-item" style="color: rgb(163, 158, 158)" href="max_roll_stationary_ebb_flow.php"> Max Roll and Stationary Ebb & Flow Benches </a>            
+            <a class="dropdown-item" style="color: rgb(163, 158, 158)" href="expanded_metal_Benches.php">Max Roll and Stationary Expanded Metal Benches</a>
             <a class="dropdown-item" style="color: rgb(163, 158, 158)" href="index.php#Trellis_System"> Trellis (Plant Support) Systems </a>
             <a class="dropdown-item" style="color: rgb(163, 158, 158)" href="index.php#Ebb&Flow"> Ebb & Flow Trays </a>
+            <a class="dropdown-item" style="color: rgb(163, 158, 158)" href="stationary_vertical_growing.php"> Stationary Vertical Growing</a>
+            <a class="dropdown-item" style="color: rgb(163, 158, 158)" href="vertical_growing_archive_racking.php"> Vertical Growing with Archive Racking</a>
+            
           </div>
         </li>
         <li class="nav-item" >
@@ -103,8 +105,8 @@
         
   <div class="hero-image">
     <div class="hero-text">
-      <h1 style="font-size:50px">Rolling Benches Canada</h1>
-      <p>Factory direct pricing for the Professional Grower</p>
+      <h1 style="font-size:50px">Rolling Benches</h1>
+      <p><h4> <b>Factory direct pricing for the Professional Grower </b></h4></p>
       <a class="stretched-link" href="index.php"></a>
       </div>
     </div>

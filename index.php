@@ -3,62 +3,54 @@
   ?>
  
 <p style="color: white; padding: 5%; text-indent: 1em">
-    Trust us to provide the perfect solution to your benching needs. We have been equipping the finest grow facilities worldwide and, 
-    as the manufacturer, we are able to offer factory direct pricing that can’t be beat. We manufacture ebb and flow stationary and 
-    rolling benches, expanded metal benches, multi-level rolling and stationary rack and all of the equipment required to operate a 
-    high yielding grow facility. All of our benches are custom made to order so you know the solution we provide will be designed and 
-    built to your exact specifications, and we also manufacture the Inserts and Trays under license from Stål & Plast, the industry leader.
-     We offer much more than benches and trays and able to provide everything required to design and equip any growing facility worldwide.
-      Whether it’s benching, lights, fans or HVAC, we have the experience and the equipment you need.
+Trust us to provide the perfect solution to your benching needs. We have been equipping the finest grow facilities globally, 
+and as the manufacturer’s Rep, we are able to offer factory direct pricing that can’t be beat. We offer ebb and flow stationary and 
+rolling benches, expanded metal benches and our world class vertical growing solution consisting of Archive and stationary racks.
 </p>
 
 <div class="card-deck" style="padding-left: 10%; padding-right: 10%; padding-bottom: 3%">
   <div class="card bg-dark"  >
       <div class="card-body text-center " style="color: white" >  
-        <p class="card-text" style="padding-bottom: 10%;"> <h2 class="main-content-title" style="color: white; min-height: 5em; padding-bottom: 10%; ">EBB AND FLOW GROWING BENCHES:</h2>
+        <p class="card-text" style="padding-bottom: 10%;"> <h2 class="main-content-title" style="color: white; min-height: 6em; padding-bottom: 10%; ">MAX ROLL AND STATIONARY EBB & FLOW BENCHES:</h2>
         <a href="images/Ebb_Flow_bench_1.jpg">
           <img class="card-img-top; img-fluid" src="images/Ebb_Flow_bench_1.jpg" alt="#" style="width:100%; height: auto; padding-bottom: 10%">
           </a>
           <div style="text-align: left"></p>
           <p style="text-indent: 1em">
-          Our Ebb & Flow benches are designed and manufactured with only the quality materials available. 
-          All benches have legs, leveling headers, and benchtop framework made from galvanized steel tubing from Allied Tubing. 
-          Side and end rails are extruded using marine grade aluminum, and our rounded bench corners are also custom extruded aluminum.  
-          The bench tops are vacuum formed UV resistant polystyrene, manufactured in long (1.5 and 2 meter lengths) to minimize 
-          the need for glue joints, while still allowing for easy shipment. Our rolling benches provide almost effortless 
-          rolling ability to allow the bench-tops to roll left and right, maximizing your growing space and your ROI.</p> 
+          Our Max Roll Ebb and Flow Benches are designed and manufactured with the grower in mind. All bench legs, leveling headers, and benchtop
+           framework are made from galvanized steel tubing, easy to clean and maintain. Side and end rails are marine grade aluminum, and all
+            bench corners are rounded. The bench tops are vacuum formed UV resistant polystyrene. Our rolling benches provide almost effortless 
+            rolling ability to allow the bench-tops to roll left and right, maximizing your growing space and your ROI.</p> 
           </div>
-          <a href="ebb_and_flow_growing_Benches.php" class="btn btn-secondary" >More Details</a>
+          <a href="max_roll_stationary_ebb_flow.php" class="btn btn-secondary" >More Details</a>
       </div>
     </div>
     <div class="card bg-dark" >
         <div class="card-body text-center " style="color: white">    
-          <p class="card-text" style="padding-bottom: 10%"> <h2 class="main-content-title" style="color: white; min-height: 5em; padding-bottom: 10%" >MULTI-TIERED BENCHES: </h2>
-          <a href="images/3_tier_1.JPG">
-            <img class="card-img-top; img-fluid" src="images/3_tier_1.JPG" alt="#" style="width:100%; height: auto; padding-bottom: 10%">
+          <p class="card-text" style="padding-bottom: 10%"> <h2 class="main-content-title" style="color: white; min-height: 6em; padding-bottom: 10%" >STATIONARY VERTICAL GROWING BENCHES: </h2>
+          <a href="images\stationary_vertical_growing.png">
+            <img class="card-img-top; img-fluid" src="images\stationary_vertical_growing.png" alt="Stationary Vertical Growing Benches" style="width:100%; height: auto; padding-bottom: 10%">
           </a>
             <div style="text-align: left"></p>
           <p style="text-indent: 1em">
-            We manufacture multi-level stationary and rolling benches and racks that are one of the best ways to maximize your 
-            vertical space and your yields. Using custom fabricated assemblies, your grow team will have the ability to utilize 
-            all of the existing space in your grow facility. As we manufacture to order, the solutions we offer are guaranteed to 
-            be the perfect fit and size for your needs.</p> 
+          Maximize space - go vertical. Two, three or four levels. Use your room to the max! vertical farming is here to stay, 
+          this is one of the best ways to maximize your space and your yields. </p> 
             </div>
-            <a href="multi_tiered_benches.php" class="btn btn-secondary" >More Details</a>
+            <a href="stationary_vertical_growing.php" class="btn btn-secondary" >More Details</a>
         </div>
       </div>
     <div class="card bg-dark" >
         <div class="card-body text-center " style="color: white">
             
-            <p class="card-text" style="padding-bottom: 10%"> <h2 class="main-content-title" style="color: white; min-height: 5em; padding-bottom: 10%" >EXPANDED METAL BENCHES:</h2>
-            <a href="images/No_image.jpg">
-            <img class="card-img-top; img-fluid" src="images/No_image.jpg" alt="#" style="width:100%; height: auto; padding-bottom: 10%">
+            <p class="card-text" style="padding-bottom: 10%"> <h2 class="main-content-title" style="color: white; min-height: 6em; padding-bottom: 10%" >MAX ROLL AND STATIONARY EXPANDED METAL BENCHES:</h2>
+            <a href="images/max_roll_stationary_expanded_metal_benches.png">
+            <img class="card-img-top; img-fluid" src="images/max_roll_stationary_expanded_metal_benches.png" alt="Max Roll and Stationary Expanded Metal Benches" style="width:100%; height: auto; padding-bottom: 10%">
             </a>
             <div style="text-align: left"></p>
           <p style="text-indent: 1em">
-            We offer a line of expanded metal benches manufactured with the same high quality materials as our signature Ebb & Flow benches. 
-            Our benches with expanded metal tops are identical to our Ebb & Flow benches, except that they have expanded metal bench tops 
-            in place of Ebb & Flow trays.</p> 
+          We offer a complete line of expanded metal benches manufactured with the same quality materials as our signature MAX ROLL Ebb & Flow benches.
+           Our benches with expanded metal tops are identical to our Max Rolls, except that they have expanded metal bench tops in place of Ebb & Flow trays.
+           </p> 
             </div>
             <a href="expanded_metal_Benches.php" class="btn btn-secondary" >More Details</a>
             
@@ -70,15 +62,16 @@
 <div class="card-deck" style="padding-left: 10%; padding-right: 10%; padding-bottom: 3%">
     <div class="card bg-dark"  >
         <div class="card-body text-center " style="color: white" >  
-          <p class="card-text" style="padding-bottom: 10%"> <h2 class="main-content-title" style="color: white; min-height: 5em; padding-bottom: 10%"> Plant Support (Trellis) Systems:</h2>
+          <p class="card-text" style="padding-bottom: 10%"> <h2 class="main-content-title" style="color: white; min-height: 6em; padding-bottom: 10%"> PLANT SUPPORT (TRELLIS) SYSTEMS:</h2>
           <a href="images/Trellis_4.jpg">
             <img class="card-img-top; img-fluid" src="images/Trellis_4.jpg" alt="#" style="width:100%; height: auto; padding-bottom: 10%">
           </a>
             
             <div style="text-align: left"></p>
           <p style="text-indent: 1em">
-            We proudly manufacture custom plant support (trellis) systems that are lightweight, fully adjustable and easy to install. Using only high-grade 
-            Galvanized Steel Tubing, our trellis system will save space and ensure the highest possible yields. </p>
+          Finally, a Trellis system that works! No bending or whipping. Our custom plant support (trellis) systems are lightweight,
+           fully adjustable and easy to install. Using only high-grade Galvanized Steel Tubing, our trellis system will save space
+            and ensure the highest possible yields. </p>
           <p style="text-indent: 1em">
             Please feel free to contact us with any questions, or to get a quote for customized benches to meet your needs.</p> 
             </div>
@@ -90,7 +83,7 @@
       <div class="card bg-dark" >
           <div class="card-body text-center " style="color: white">
               
-            <p class="card-text" style="padding-bottom: 10%; text-align: left"> <h2 class="main-content-title" style="color: white; min-height: 5em; padding-bottom: 10%" >Ebb & Flow Trays: </h2>
+            <p class="card-text" style="padding-bottom: 10%; text-align: left"> <h2 class="main-content-title" style="color: white; min-height: 6em; padding-bottom: 10%" >EBB & FLOW TRAYS: </h2>
             <a href="images/Tray_1.jpg">
               <img class="card-img-top; img-fluid" src="images/Tray_1.jpg" alt="#" style="width:100%; height: auto; padding-bottom: 10%">
             </a>
@@ -105,12 +98,22 @@
               <a href="contactUs.php" class="btn btn-secondary " >Contact Us</a>
           </div>
         </div>
-        <div class="card" style="background: black"  >
-            <div class="card-body text-center " style="color: white">
-                
+        <div class="card bg-dark" >
+          <div class="card-body text-center " style="color: white">
               
-            </div>
+            <p class="card-text" style="padding-bottom: 10%; text-align: left"> <h2 class="main-content-title" style="color: white; min-height: 6em; padding-bottom: 10%" >VERTICAL GROWING WITH ARCHIVE RACKING </h2>
+            <a href="images/vertical_archive_racking.png">
+              <img class="card-img-top; img-fluid" src="images/vertical_archive_racking.png" alt="#" style="width:100%; height: auto; padding-bottom: 10%">
+            </a>
+              <div style="text-align: left"></p>
+          <p style="text-indent: 1em">
+            Archive racking maximizes growing space without sacrificing aisle space. Optimize all available space in the grow area by having only one mobile aisle per room.
+             You’ll have the ability to have your mobile aisle be as large as you need, or as local laws allow.
+          </p>
+               </div>
+               <a href="vertical_growing_archive_racking.php" class="btn btn-secondary" >More Details</a>
           </div>
+        </div>
   </div>
 
 <?php
