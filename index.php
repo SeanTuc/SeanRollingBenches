@@ -20,10 +20,12 @@ rolling benches, expanded metal benches and our world class vertical growing sol
           <div style="text-align: left"></p>
           <p style="text-indent: 1em">
           Our Max Roll Ebb and Flow Benches are designed and manufactured with the grower in mind. All bench legs, leveling headers, and benchtop
-           framework are made from galvanized steel tubing, easy to clean and maintain. <br></p> 
+           framework are made from galvanized steel tubing, easy to clean and maintain. </p> 
           </div>
+          <div style="padding-top: 48px">
           <a href="max_roll_stationary_ebb_flow.php" class="btn btn-secondary">More Details</a>
-      </div>
+          </div>
+        </div>
     </div>
     
     <a id="Trellis_System" ></a>
