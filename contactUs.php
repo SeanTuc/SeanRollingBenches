@@ -32,7 +32,7 @@
     </div>
     <div class="card" style="background-color: rgb(31, 30, 30)" >
         <div class="card-body bg-dark text-center " style="color: white">    
-          <p class="card-text" style="padding-bottom: 10%"> <h2 style="color: white;" >RollingBenches.ca</h2>
+          <p class="card-text" style="padding-bottom: 10%"> <h2 style="color: white;" >www.Rollingbenches.ca</h2>
             <div style=" color: white; padding: 5%">
             <h4> Call us Today! </h4> <br>
             <h5>Phone: </h5> <div style=""> <a href="tel:+18557225420"> 1-855-RACK420 </a> <br> <a href="tel:+18557225420"> (1-855-722-5420) <a> </div> 

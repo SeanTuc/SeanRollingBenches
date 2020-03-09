@@ -82,8 +82,8 @@
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Products</a>
           <div class="dropdown-menu bg-dark " style="font-size:calc(5pt  + 0.8vw); ">
-            <a class="dropdown-item" style="color: rgb(163, 158, 158)" href="max_roll_stationary_ebb_flow.php"> Max Roll and Stationary Ebb & Flow Benches </a>            
-            <a class="dropdown-item" style="color: rgb(163, 158, 158)" href="expanded_metal_Benches.php">Max Roll and Stationary Expanded Metal Benches</a>
+            <a class="dropdown-item" style="color: rgb(163, 158, 158)" href="max_roll_stationary_ebb_flow.php"> Max Roll Ebb & Flow Benches </a>            
+            <a class="dropdown-item" style="color: rgb(163, 158, 158)" href="expanded_metal_Benches.php">Max Roll Expanded Metal Benches</a>
             <a class="dropdown-item" style="color: rgb(163, 158, 158)" href="index.php#Trellis_System"> Trellis (Plant Support) Systems </a>
             <a class="dropdown-item" style="color: rgb(163, 158, 158)" href="index.php#Ebb&Flow"> Ebb & Flow Trays </a>
             <a class="dropdown-item" style="color: rgb(163, 158, 158)" href="stationary_vertical_growing.php"> Stationary Vertical Growing</a>
@@ -106,8 +106,8 @@
         
   <div class="hero-image">
     <div class="hero-text">
-      <h1 style="font-size:calc(15pt  + 1.9vw);"> <b>Factory direct pricing for the Professional Grower</b></h1>
-      <p><h5> <b> RollingBenches.ca </b></h5></p>
+      <h1 style="font-size:calc(15pt  + 1.9vw);"> <b>Factory Direct Pricing for the Professional Grower</b></h1>
+      <p><small> <b> www.Rollingbenches.ca </b></small></p>
       <a class="stretched-link" href="index.php"></a>
       </div>
     </div>

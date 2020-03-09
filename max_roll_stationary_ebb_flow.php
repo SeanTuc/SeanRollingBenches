@@ -1,7 +1,7 @@
 <?php
     include 'header.php';
 ?>
-<h2 style="color: white; padding: 3% 0% 2% 5%; " ><b>Max Roll and Stationary Ebb & Flow Benches</b></h2>
+<h2 style="color: white; padding: 3% 0% 2% 5%; " ><b>Max Roll Ebb & Flow Benches</b></h2>
 <div class:"content" style="color: white; padding: 0% 5% 3% 5%;">
 <p style="text-indent: 1em">
     <b> Our Max Roll Ebb & Flow Benches are designed and manufactured with the grower in mind. All bench legs,

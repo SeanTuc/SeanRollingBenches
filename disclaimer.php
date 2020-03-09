@@ -2,14 +2,14 @@
   include 'header.php';
 ?>
 
-<h2 style="color: white; padding: 5% 5% 0% 5%; text-align: center " ><b>Disclaimers for RollingBenches.ca</b></h2>
+<h2 style="color: white; padding: 5% 5% 0% 5%; text-align: center " ><b>Disclaimers for www.Rollingbenches.ca</b></h2>
 <div class:"content" style="color: white; padding: 0% 6% 3% 6%;">
 
 <p style="text-indent: 1em">
-All the information on this website – Rollingbenches.ca – is published in good faith and for general information purpose only. 
-RollingBenches.ca does not make any warranties about the completeness, reliability and accuracy of this information. 
-Any action you take upon the information you find on this website (RollingBenches.ca), is strictly at your own risk. 
-RollingBenches.ca will not be liable for any losses and/or damages in connection with the use of our website. <br></p>
+All the information on this website – www.Rollingbenches.ca – is published in good faith and for general information purpose only. 
+www.Rollingbenches.ca does not make any warranties about the completeness, reliability and accuracy of this information. 
+Any action you take upon the information you find on this website (www.Rollingbenches.ca), is strictly at your own risk. 
+www.Rollingbenches.ca will not be liable for any losses and/or damages in connection with the use of our website. <br></p>
 <p style="text-indent: 1em">
 From our website, you may be able to visit other websites by following hyperlinks to such external sites. While we strive to
  provide only quality links to useful and ethical websites, we have no control over the content and nature of these sites or the 

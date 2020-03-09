@@ -5,12 +5,9 @@
 <div class:"content" style="color: white; padding: 0% 5% 3% 5%;">
 <p style="text-indent: 1em">
     Our Ebb & Flow benches are designed and manufactured with only the quality materials available. 
-    All benches have legs, leveling headers, and benchtop framework made from galvanized steel tubing from Allied Tubing. Side and end rails 
-    are extruded using marine grade aluminum, and our rounded bench corners are also custom extruded aluminum.  
-    The bench tops are vacuum formed UV resistant polystyrene, manufactured in long (1.5 and 2 meter lengths) 
-    to minimize the need for glue joints, while still allowing for easy shipment. Our rolling benches provide 
-    almost effortless rolling ability to allow the bench-tops to roll left and right, maximizing your 
-    growing space and your ROI. <br> <br> </p>
+    All benches have legs, leveling headers, and benchtop framework made from galvanized steel tubing from Allied Tubing. Side and end rails are marine grade aluminum, and all
+    bench corners are rounded. The bench tops are vacuum formed UV resistant polystyrene. Our rolling benches provide almost effortless 
+    rolling ability to allow the bench-tops to roll left and right, maximizing your growing space and your ROI. <br> <br> </p>
 
     <h3  ><b>Specifications</b></h3> <br>
     <ul> 

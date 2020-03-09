@@ -6,7 +6,7 @@
 <div class:"content" style="color: white; padding: 0% 6% 3% 6%;">
 
 <p>
-This privacy Policy discloses the privacy practices for Rollingbenches.ca. This privacy notice applies solely to information collected
+This privacy Policy discloses the privacy practices for www.Rollingbenches.ca. This privacy notice applies solely to information collected
  by this website. It will notify you of What personal data we collect and why we collect it.
 </p>
     <ul style="list-style-type:none; padding: 4% 0% 1% 0%; ">

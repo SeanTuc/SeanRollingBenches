@@ -1,7 +1,7 @@
 <?php
     include 'header.php';
 ?>
-<h2 style="color: white; padding: 3% 0% 0% 5%; " ><b>Max Roll and Stationary Expanded Metal Benches</b></h2>
+<h2 style="color: white; padding: 3% 0% 0% 5%; " ><b>Max Roll and Expanded Metal Benches</b></h2>
 <div class:"content" style="color: white; padding: 0% 5% 10% 5%;">
     <p style="text-indent: 1em"> 
         We offer a complete line of expanded metal benches manufactured with the same quality materials as our signature MAX ROLL Ebb & Flow benches.
