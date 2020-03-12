@@ -6,7 +6,7 @@
 <p style="text-indent: 1em">
     <b> Maximize growing space without sacrificing aisle space!</b> <br> 
     Archive racking maximizes growing space without sacrificing aisle space. Optimize all available space in the grow area by having only one mobile aisle per room.
-    You’ll have the ability to have your mobile aisle be as large as you need, or as local laws allow.
+    You’ll have the ability to have your mobile aisle be as wide as you need, or as local laws allow or require.
  <br> <br> 
     </p>
     <ul> 

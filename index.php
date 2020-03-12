@@ -4,7 +4,7 @@
  
 <p style="color: white; padding: 5%; text-indent: 1em">
 Trust us to provide the perfect solution to your benching needs. We have been equipping the finest grow facilities globally, 
-and as the manufacturer’s Rep, we are able to offer factory direct pricing that can’t be beat. We offer ebb and flow stationary and 
+and as the manufacturer’s representative, we are able to offer factory direct pricing that can’t be beat. We offer ebb and flow stationary and 
 rolling benches, expanded metal benches and our world class vertical growing solution consisting of Archive and stationary racks.
 </p>
 
@@ -57,8 +57,8 @@ rolling benches, expanded metal benches and our world class vertical growing sol
             </a>
               <div style="text-align: left"></p>
           <p style="text-indent: 1em; padding-bottom: 20pt;">
-              We manufacture the Stål & Plast trays for all of our racks and benches, and these fine trays are available separately as well. We can supply new or 
-              replacement benches for all of your existing racks and benches, and you’ll always have the security of knowing that our custom fabrication techniques
+               Only the best! Stål & Plast trays for all of our racks and benches, these fine trays are available separately as well. We can supply new or 
+               replacement trays for all of your existing racks and benches, and you’ll always have the security of knowing that our custom fabrication techniques
                ensure a perfect fit every time.</p>
                </div>
                <div style="width:90%; bottom:0; position: absolute; padding-bottom: 10pt;">

@@ -5,7 +5,7 @@
 <div class:"content" style="color: white; padding: 0% 5% 3% 5%;">
 <p style="text-indent: 1em">
     <b> Maximize space - go vertical. Two, three or four levels. Use your room to the max.  
-        VERTICAL Farming is here to stay, this is one of the best ways to maximize your space and your yields. 
+        Vertical Farming is here to stay, this is one of the best ways to maximize your space and your yields. 
  <br> <br> 
     </p>
     <ul>

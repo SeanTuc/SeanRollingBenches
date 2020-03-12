@@ -2,14 +2,14 @@
   include 'header.php';
 ?>
 
-<h2 style="color: white; padding: 5% 5% 0% 5%; text-align: center " ><b>Disclaimers for www.Rollingbenches.ca</b></h2>
+<h2 style="color: white; padding: 5% 5% 0% 5%; text-align: center " ><b>Disclaimers for www.rollingbenches.ca</b></h2>
 <div class:"content" style="color: white; padding: 0% 6% 3% 6%;">
 
 <p style="text-indent: 1em">
-All the information on this website – www.Rollingbenches.ca – is published in good faith and for general information purpose only. 
-www.Rollingbenches.ca does not make any warranties about the completeness, reliability and accuracy of this information. 
-Any action you take upon the information you find on this website (www.Rollingbenches.ca), is strictly at your own risk. 
-www.Rollingbenches.ca will not be liable for any losses and/or damages in connection with the use of our website. <br></p>
+All the information on this website – www.rollingbenches.ca – is published in good faith and for general information purpose only. 
+www.rollingbenches.ca does not make any warranties about the completeness, reliability and accuracy of this information. 
+Any action you take upon the information you find on this website (www.rollingbenches.ca), is strictly at your own risk. 
+www.rollingbenches.ca will not be liable for any losses and/or damages in connection with the use of our website. <br></p>
 <p style="text-indent: 1em">
 From our website, you may be able to visit other websites by following hyperlinks to such external sites. While we strive to
  provide only quality links to useful and ethical websites, we have no control over the content and nature of these sites or the 
@@ -22,10 +22,10 @@ Please be sure to check the Privacy Policies of these sites as well as their “
 
 
     <ul style="list-style-type:none; padding: 4% 0% 1% 0%; ">
-        <li> <h3>Disclaimer for IEGCanada, Inc</h3>
+        <li> <h3>Disclaimer for www.rollingbenches.ca</h3>
             <ul style="list-style-type:none;">
                 <li style="margin: 10px 0;">If you require any more information or have any questions about our site’s disclaimer,
-                     please feel free to contact us by email at:  <a href="mailto:jon@igecanada.ca?subject=Rolling Benches Disclaimer Question">jon@igecanada.ca </a> </li>
+                     please feel free to contact us by email at:  <a href="mailto:jon@igecanada.ca?subject=Rolling Benches Disclaimer Question">info@rollingbenches.ca </a> </li>
             </ul>
         </li>
         <li> <h3>Consent</h3>

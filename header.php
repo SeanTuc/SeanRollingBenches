@@ -107,7 +107,7 @@
   <div class="hero-image">
     <div class="hero-text">
       <h1 style="font-size:calc(15pt  + 1.9vw);"> <b>Factory Direct Pricing for the Professional Grower</b></h1>
-      <p><small> <b> www.Rollingbenches.ca </b></small></p>
+      <p><small> <b> www.rollingbenches.ca </b></small></p>
       <a class="stretched-link" href="index.php"></a>
       </div>
     </div>
