@@ -33,7 +33,7 @@ rolling benches, expanded metal benches and our world class vertical growing sol
         <div class="card-body text-center " style="color: white; position: relative;" >  
           <p class="card-text" style="padding-bottom: 10%"> <h2 class="main-content-title" style="color: white; min-height: 5em; padding-bottom: 10%"> PLANT SUPPORT (TRELLIS) SYSTEMS:</h2>
           <a href="images/Trellis_4.jpg">
-            <img class="card-img-top; img-fluid" src="images/Trellis_4.jpg" alt="Trellis System" style="width:100%; height: auto; max-height: 260px; padding-bottom: 10%">
+            <img class="card-img-top; img-fluid" src="images/Trellis_2.jpg" alt="Trellis System" style="width:100%; height: auto; max-height: 260px; padding-bottom: 10%">
           </a>
             <div style="text-align: left"></p>
           <p style="text-indent: 1em; padding-bottom: 20pt;">
