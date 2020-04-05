@@ -101,7 +101,7 @@ rolling benches, expanded metal benches and our world class vertical growing sol
           </a>
             <div style="text-align: left"></p>
           <p style="text-indent: 1em; padding-bottom: 20pt;">
-          Maximize space - go vertical. Two, three or four levels. Use your room to the max! vertical farming is here to stay, 
+          Maximize space - go vertical. Two, three or four levels. Use your room to the max! Vertical farming is here to stay, 
           this is one of the best ways to maximize your space and your yields. </p> 
             </div>
             <div style="width:90%; bottom:0; position: absolute; padding-bottom: 10pt; margin:auto;">
